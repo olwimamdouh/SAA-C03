@@ -14,3 +14,12 @@ SAA-C03 is a certification exam developed by Amazon Web Services (AWS) that test
 
 
 __Note__ — I will alawys update this, regarding my progress. At the end you can check the whole preparing strategy plan in details.
+
+# Well-Architected Domains
+
+According to the exam guide there are four pillars as below:
+
+1. Design Secure Architectures
+2. Design Resilient Architectures
+3. Design High-Performing Architectures
+4. Design Cost-Optimized Architectures
