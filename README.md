@@ -9,8 +9,8 @@ SAA-C03 is a certification exam developed by Amazon Web Services (AWS) that test
 ![SAA-C03](https://media.whizlabs.com/website/aws-certified-solutions-architect-associate-certification-exam-saa-c03.webp)
 
 
-- Go through the [Exam Guide](https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf)
-- Subscribe to [ACloud Guru Course](https://learn.acloud.guru/course/certified-solutions-architect-associate/overview)
+- Go through the [Exam Guide](https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf). For further information about the exam.
+- Subscribe to [ACloud Guru Course](https://learn.acloud.guru/course/certified-solutions-architect-associate/overview).
 
 
 __Note__ — I will alawys update this, regarding my progress. At the end you can check the whole preparing strategy plan in details.
